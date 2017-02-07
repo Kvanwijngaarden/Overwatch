@@ -38,5 +38,7 @@ public class Main {
         hanzomain.kdratio();
         hanzomain.kdratio();
 
+        hanzomain.kdratio();hanzomain.kdratio();hanzomain.kdratio();hanzomain.kdratio();hanzomain.kdratio();hanzomain.kdratio();hanzomain.kdratio();hanzomain.kdratio();
+
     }
 }
