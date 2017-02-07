@@ -19,6 +19,14 @@ public class Main {
         junkrat.kdratio();
         genji.kdratio();
         hanzomain.kdratio();
+        hanzomain.kdratio();
+        hanzomain.kdratio();
+        hanzomain.kdratio();
+        hanzomain.kdratio();
+        hanzomain.kdratio();
+        hanzomain.kdratio();
+        hanzomain.kdratio();
+        hanzomain.kdratio();
 
     }
 }
